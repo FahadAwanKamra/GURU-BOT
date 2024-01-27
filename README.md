@@ -1,11 +1,11 @@
 <p align="center">  
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
-    <h1 align="center">GURU-BOT 2.O</h1>
+  <a href="https://youtube.com/@fahadtipsandtricks?si=FvuwRnl-dl9xOQVe">
+    <img alt="Guru" height="300" src="https://telegra.ph/file/ff64bb51ab0b185087513.jpg">
+    <h1 align="center">FAHAD-BOT 2.O</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/FAHAD-BOT-black?style=for-the-badge&logo="></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Guru322?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
@@ -16,7 +16,7 @@
 </p>
 
 ####  
-GURU-BOT- Simple Multi Device whatsapp bot.
+FAHAD-BOT- Simple Multi Device whatsapp bot.
 
 ***
 
@@ -114,18 +114,18 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 - Star ⭐ the repo if you like GURU-BOT.
 
 ## CREDITS 
-<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
-<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
+<div><button id="boton" type="button">Baileys - By FAHAD AWAN</button></div>
+<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://telegra.ph/file/ff64bb51ab0b185087513.jpg" width="150" height="150" alt="adiwajshing"/></a>
 
-<div><button id="boton" type="button">Base  - By FG98F</button></div>
-<a href="https://github.com/FG98F"><img src="https://github.com/FG98F.png" width="150" height="150" alt="adiwajshing"/></a>
+<div><button id="boton" type="button">Base  - By FAHAD AWAN</button></div>
+<a href="https://github.com/FG98F"><img src="https://telegra.ph/file/ff64bb51ab0b185087513.jpg" width="150" height="150" alt="adiwajshing"/></a>
 
 
 
 ## `Main Dev` 
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
+<a href="https://github.com/fahadawankamra"><img src="https://telegra.ph/file/ff64bb51ab0b185087513.jpg" width="250" height="250" alt="FAHAD AWAN"/></a>
   
-`GURU-BOT - By Guru322`
+`FAHAD-BOT - By FAHAD AWAN`
 
 ### CONTRIBUTORS
 <a href="https://github.com/IndraTensei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
